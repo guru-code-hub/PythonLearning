@@ -38,6 +38,3 @@ print(complex_number.imag)
 # Tuple
 # Dictionary
 # Set
-
-
-
