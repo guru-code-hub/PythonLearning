@@ -19,8 +19,3 @@ print(type(name))
 # Variable name should not have any Space
 # Ex :
 
-
-
-
-
-

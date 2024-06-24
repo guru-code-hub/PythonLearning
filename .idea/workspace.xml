@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13182826-2245-4af2-9f6f-374cf7ac9595" name="Changes" comment="Adding latest changes">
-      <change afterPath="$PROJECT_DIR$/Py_Exercise/Task_05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Exercise/Task_06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Exercise/Lab011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Exercise/Lab012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Exercise/Lab014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Exercise/Lab015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Exercise/Lab016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Exercise/Lab017.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Py_Exercise/Task_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Py_Exercise/Task_03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Py_Exercise/Task_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/Py_Exercise/Task_04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Py_Exercise/Lab010.py" beforeDir="false" afterPath="$PROJECT_DIR$/Py_Exercise/Lab010.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,25 +51,120 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Assignment001.executor": "Run",
-    "Python.Assignment002.executor": "Run",
-    "Python.Lab001.executor": "Run",
-    "Python.Lab008.executor": "Run",
-    "Python.Lab009.executor": "Run",
-    "Python.Task_03.executor": "Run",
-    "Python.Task_04.executor": "Run",
-    "Python.Task_05.executor": "Run",
-    "Python.Task_06.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Assignment001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Assignment002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab014.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab015.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_06.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.idesettings.debugger.python&quot;
   }
-}]]></component>
+}</component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySaveCallSignatures" value="true" />
+    <option name="mySupportGeventDebugging" value="true" />
+    <option name="myDropIntoDebuggerOnFailedTests" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\avgur\PycharmProjects\PythonLearning" />
+      <recent name="C:\Users\avgur\PycharmProjects\PythonLearning\Py_Exercise\PythonTask" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Lab011">
+    <configuration name="Lab011" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Py_Exercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Py_Exercise/Lab011.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab012" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Py_Exercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Py_Exercise/Lab012.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab013" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab013.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Lab013" />
+        <item itemvalue="Python.Lab012" />
+        <item itemvalue="Python.Lab011" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-48aec45f0201-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17011.127" />
+        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
       </set>
     </attachedChunks>
   </component>
@@ -110,7 +209,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718285094686</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Adding latest changes">
+      <option name="closed" value="true" />
+      <created>1718302485090</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718302485090</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Adding latest changes">
+      <option name="closed" value="true" />
+      <created>1718302680639</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718302680639</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
