@@ -1,0 +1,20 @@
+my_list = ['guru', 41, 'bangalore']
+
+value = my_list.count('guru')
+
+my_list.pop()
+print(value)
+print(my_list)
+my_list.insert(2, "Hello")
+print(my_list)
+my_list.insert(1, "Say Hello")
+print(my_list)
+my_list.remove(41)
+print(my_list)
+my_list.append("last_Value")
+print(my_list)
+my_new_list = my_list.copy()
+print("My new list", my_new_list)
+my_list.clear()
+# print(my_new_list)
+print(my_list, end='\n')
